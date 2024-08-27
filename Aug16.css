@@ -1,0 +1,74 @@
+header{
+    background-color: aquamarine;
+    height: 50px;
+
+}
+.p1{
+    text-align: center;
+   font-size: larger;
+   padding: 10px;
+    color: blue;
+    
+}
+#d1{
+       position: relative; 
+      
+}
+
+.i1{
+    position: absolute;
+   z-index: 1;
+  
+}
+.i2{
+    position: absolute;
+  z-index: 1;
+  top: 15rem;
+}
+.i3{
+    position: absolute;
+    z-index: 1;
+    top: 30rem;
+    
+}
+.i4{
+    position: absolute;
+    z-index: 7;
+    left: 70rem;
+}
+.i5{
+    position: absolute;
+    z-index: 8;
+    left: 70rem;
+    top: 13rem;
+}
+.i6{
+    position: absolute;
+    z-index: 9;
+    left: 70rem;
+    top: 30rem;
+}
+.i7{
+    position: absolute;
+    z-index: 10;
+    left: 70rem;
+    top: 45rem;
+    border-radius: 10px;
+
+}
+.i8{
+    position: absolute;
+    z-index: 10;
+   height: 250px;
+    top: 45rem;
+   
+
+}
+.c1{
+    position: absolute;
+    z-index: 10;
+    left: 30rem;
+    top: 10rem;
+    border-radius: 16px;
+
+}
